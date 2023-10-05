@@ -1,0 +1,2 @@
+'@Test' för att få in jUnit.
+När något ska testas lägger man in '@Test' som en annotation.
