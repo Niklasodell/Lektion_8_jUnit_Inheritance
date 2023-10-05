@@ -11,5 +11,14 @@ public class Student {
         this.age = age;
         this.isTired = isTired;
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", isTired=" + isTired +
+                '}';
+    }
 }
 
